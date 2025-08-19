@@ -35,7 +35,7 @@ I have successfully completed multiple internships, certifications, and projects
 - 📊 **Data Visualization Dashboards** – Using Python & Tableau for insights.  
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](in/ajay-sapkale-)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajay-sapkale-5352782a2/)  
 - 🐙 [GitHub](https://github.com/ajaysapkale136)  
 - ✉️ Email: *ajay.sapkale136@gmail.com*  
 
